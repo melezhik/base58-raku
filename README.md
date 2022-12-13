@@ -1,4 +1,5 @@
-[![SparrowCI](https://ci.sparrowhub.io/project/gh-grondilu-base58-raku/badge)](https://ci.sparrowhub.io)
+[![SparrowCI](https://ci.sparrowhub.io/project/gh-melezhik-base58-raku/badge)](https://ci.sparrowhub.io)
+
 # Base58
 
 Satoshi Nakamoto's binary-to-text encoding in Raku.  No checksum.
